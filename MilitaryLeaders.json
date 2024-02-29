@@ -7,7 +7,7 @@
     "age_at_death": 45,
     "active_status": false,
     "birth_date": "-247-01-01",
-    "image_url": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-Mohammed180599/main/images_MilitaryLeaders/1.jpg",
+    "image_url": "https://raw.githubusercontent.com/Mohammed180599/MilitaryLeaders/main/images_MilitaryLeaders/1.jpg",
     "historical_period": "Classical antiquity",
     "favorite_weapons": ["War elephants", "Catapults", "Falcata"],
     "significant_battle": {
@@ -26,7 +26,7 @@
     "age_at_death": 48,
     "active_status": false,
     "birth_date": "-544-01-01",
-    "image_url": "",
+    "image_url": "https://raw.githubusercontent.com/Mohammed180599/MilitaryLeaders/main/images_MilitaryLeaders/2.jpg",
     "historical_period": "Ancient China",
     "favorite_weapons": ["Strategic deception", "Guerilla warfare", "Spy intelligence"],
     "significant_battle": {
@@ -45,7 +45,7 @@
     "age_at_death": 68,
     "active_status": false,
     "birth_date": "1336-04-09",
-    "image_url": "https://example.com/hannibal.jpg",
+    "image_url": "https://raw.githubusercontent.com/Mohammed180599/MilitaryLeaders/main/images_MilitaryLeaders/3.jpg",
     "historical_period": "Late Middle Ages",
     "favorite_weapons": ["Cavalry", "Siege weaponry", "Archers"],
     "significant_battle": {
@@ -64,7 +64,7 @@
     "age_at_death": 71,
     "active_status": false,
     "birth_date": "1494-11-06",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Suleiman_The_Magnificent_by_Criscuolo.jpg/220px-Suleiman_The_Magnificent_by_Criscuolo.jpg",
+    "image_url": "https://raw.githubusercontent.com/Mohammed180599/MilitaryLeaders/main/images_MilitaryLeaders/4.jpg",
     "historical_period": "Renaissance",
     "favorite_weapons": ["Janissaries", "Artillery", "Navy"],
     "significant_battle": {
@@ -83,7 +83,7 @@
     "age_at_death": 53,
     "active_status": false,
     "birth_date": "-236-01-01",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Scipio_Africanus_defeated_Hannibal_at_Zama.jpg/220px-Scipio_Africanus_defeated_Hannibal_at_Zama.jpg",
+    "image_url": "https://raw.githubusercontent.com/Mohammed180599/MilitaryLeaders/main/images_MilitaryLeaders/5.jpg",
     "historical_period": "Ancient Rome",
     "favorite_weapons": ["Legionaries", "Cavalry", "Tactical flexibility"],
     "significant_battle": {
@@ -102,7 +102,7 @@
     "age_at_death": 58,
     "active_status": false,
     "birth_date": "592-01-01",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Khalid_bin_al-Walid%27s_compilation_of_fierce_battles_against_Arabia.png/220px-Khalid_bin_al-Walid%27s_compilation_of_fierce_battles_against_Arabia.png",
+    "image_url": "https://raw.githubusercontent.com/Mohammed180599/MilitaryLeaders/main/images_MilitaryLeaders/6.jpg",
     "historical_period": "Early Islamic Period",
     "favorite_weapons": ["Cavalry", "Sword", "Strategic maneuvering"],
     "significant_battle": {
@@ -121,7 +121,7 @@
     "age_at_death": 60,
     "active_status": false,
     "birth_date": "-540-01-01",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Leonidas1.jpg/220px-Leonidas1.jpg",
+    "image_url": "https://raw.githubusercontent.com/Mohammed180599/MilitaryLeaders/main/images_MilitaryLeaders/7.jpg",
     "historical_period": "Ancient Greece",
     "favorite_weapons": ["Spear", "Shield", "Phalanx formation"],
     "significant_battle": {
@@ -140,7 +140,7 @@
     "age_at_death": 65,
     "active_status": false,
     "birth_date": "1162-01-01",
-    "image_url": "",
+    "image_url": "https://raw.githubusercontent.com/Mohammed180599/MilitaryLeaders/main/images_MilitaryLeaders/8.jpg",
     "historical_period": "Medieval Asia",
     "favorite_weapons": ["Horse archery", "Strategic deception", "Siege warfare"],
     "significant_battle": {
@@ -159,7 +159,7 @@
     "age_at_death": 69,
     "active_status": false,
     "birth_date": "1607-03-24",
-    "image_url": "",
+    "image_url": "https://raw.githubusercontent.com/Mohammed180599/MilitaryLeaders/main/images_MilitaryLeaders/9.jpg",
     "historical_period": "Dutch Golden Age",
     "favorite_weapons": ["Naval fleet", "Cannon", "Boarding tactics"],
     "significant_battle": {
@@ -174,11 +174,11 @@
   {
     "id": 10,
     "name": "Saladin",
-    "description": "Kurdish-Muslim military leader and Sultan of Egypt and Syria, known for his role in the reconquest of Jerusalem from the Crusaders and his chivalrous conduct in warfare.",
+    "description": "Kurdish military leader and Sultan of Egypt and Syria, known for his role in the reconquest of Jerusalem from the Crusaders and his chivalrous conduct in warfare.",
     "age_at_death": 55,
     "active_status": false,
     "birth_date": "1137-01-01",
-    "image_url": "",
+    "image_url": "https://raw.githubusercontent.com/Mohammed180599/MilitaryLeaders/main/images_MilitaryLeaders/10.jpg",
     "historical_period": "Medieval Middle East",
     "favorite_weapons": ["Cavalry", "Trebutchet", "Diplomacy"],
     "significant_battle": {
