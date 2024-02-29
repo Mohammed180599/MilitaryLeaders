@@ -1,0 +1,193 @@
+[
+
+{
+    "id": 1,
+    "name": "Hannibal Barca",
+    "description": "Carthaginian general, best known for his tactics during the Second Punic War, particularly his crossing of the Alps with elephants.",
+    "age_at_death": 45,
+    "active_status": false,
+    "birth_date": "-247-01-01",
+    "image_url": "",
+    "historical_period": "Classical antiquity",
+    "favorite_weapons": ["War elephants", "Catapults", "Falcata"],
+    "significant_battle": {
+      "id": "BATTLE-1",
+      "name": "Battle of Cannae",
+      "location": "Italy",
+      "date": "-216-08-02",
+      "enemy": "Roman Empire"
+    }
+  },
+
+  {
+    "id": 2,
+    "name": "Sun Tzu",
+    "description": "Legendary Chinese military strategist and philosopher, revered for his profound insights on warfare.",
+    "age_at_death": 48,
+    "active_status": false,
+    "birth_date": "-544-01-01",
+    "image_url": "",
+    "historical_period": "Ancient China",
+    "favorite_weapons": ["Strategic deception", "Guerilla warfare", "Spy intelligence"],
+    "significant_battle": {
+      "id": "BATTLE-2",
+      "name": "Battle of Boju",
+      "location": "China",
+      "date": "-506-01-01",
+      "enemy": "Chu state"
+    }
+  },
+
+  {
+    "id": 3,
+    "name": "Tamerlane",
+    "description": "Central Asian conqueror and founder of the Timurid Empire, known for his military campaigns and the establishment of one of the largest empires in history.",
+    "age_at_death": 68,
+    "active_status": false,
+    "birth_date": "1336-04-09",
+    "image_url": "https://example.com/hannibal.jpg",
+    "historical_period": "Late Middle Ages",
+    "favorite_weapons": ["Cavalry", "Siege weaponry", "Archers"],
+    "significant_battle": {
+      "id": "BATTLE-3",
+      "name": "Battle of Ankara",
+      "location": "Turkey",
+      "date": "1402-07-20",
+      "enemy": "Ottoman Empire"
+    }
+  },
+
+  {
+    "id": 4,
+    "name": "Suleiman the Magnificent",
+    "description": "The tenth and longest-reigning Sultan of the Ottoman Empire, known for his military campaigns, administrative reforms, and patronage of the arts.",
+    "age_at_death": 71,
+    "active_status": false,
+    "birth_date": "1494-11-06",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Suleiman_The_Magnificent_by_Criscuolo.jpg/220px-Suleiman_The_Magnificent_by_Criscuolo.jpg",
+    "historical_period": "Renaissance",
+    "favorite_weapons": ["Janissaries", "Artillery", "Navy"],
+    "significant_battle": {
+      "id": "BATTLE-4",
+      "name": "Siege of Vienna",
+      "location": "Austria",
+      "date": "1529-09-27",
+      "enemy": "Holy Roman Empire"
+    }
+  },
+
+  {
+    "id": 5,
+    "name": "Scipio Africanus",
+    "description": "Roman general and statesman, best known for his victory over Hannibal at the Battle of Zama, which effectively ended the Second Punic War.",
+    "age_at_death": 53,
+    "active_status": false,
+    "birth_date": "-236-01-01",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Scipio_Africanus_defeated_Hannibal_at_Zama.jpg/220px-Scipio_Africanus_defeated_Hannibal_at_Zama.jpg",
+    "historical_period": "Ancient Rome",
+    "favorite_weapons": ["Legionaries", "Cavalry", "Tactical flexibility"],
+    "significant_battle": {
+      "id": "BATTLE-5",
+      "name": "Battle of Zama",
+      "location": "Tunisia",
+      "date": "-202-10-19",
+      "enemy": "Carthage"
+    }
+  },
+
+  {
+    "id": 6,
+    "name": "Khalid ibn Walid",
+    "description": "Arab military commander and companion of the Prophet Muhammad, known for his strategic brilliance and undefeated record in over a hundred battles.",
+    "age_at_death": 58,
+    "active_status": false,
+    "birth_date": "592-01-01",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Khalid_bin_al-Walid%27s_compilation_of_fierce_battles_against_Arabia.png/220px-Khalid_bin_al-Walid%27s_compilation_of_fierce_battles_against_Arabia.png",
+    "historical_period": "Early Islamic Period",
+    "favorite_weapons": ["Cavalry", "Sword", "Strategic maneuvering"],
+    "significant_battle": {
+      "id": "BATTLE-6",
+      "name": "Battle of Yarmouk",
+      "location": "Syria",
+      "date": "636-08-15",
+      "enemy": "Byzantine Empire"
+    }
+  },
+
+  {
+    "id": 7,
+    "name": "Leonidas",
+    "description": "Spartan military general and king, renowned for his leadership at the Battle of Thermopylae against the Persian Empire.",
+    "age_at_death": 60,
+    "active_status": false,
+    "birth_date": "-540-01-01",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Leonidas1.jpg/220px-Leonidas1.jpg",
+    "historical_period": "Ancient Greece",
+    "favorite_weapons": ["Spear", "Shield", "Phalanx formation"],
+    "significant_battle": {
+      "id": "BATTLE-7",
+      "name": "Battle of Thermopylae",
+      "location": "Greece",
+      "date": "-480-06-06",
+      "enemy": "Persian Empire"
+    }
+  },
+
+  {
+    "id": 8,
+    "name": "Genghis Khan",
+    "description": "Mongol military leader and founder of the Mongol Empire, skillful in warfare creator of one of the largest empires in history.",
+    "age_at_death": 65,
+    "active_status": false,
+    "birth_date": "1162-01-01",
+    "image_url": "",
+    "historical_period": "Medieval Asia",
+    "favorite_weapons": ["Horse archery", "Strategic deception", "Siege warfare"],
+    "significant_battle": {
+      "id": "BATTLE-8",
+      "name": "Battle of Khwarezmia",
+      "location": "Central Asia",
+      "date": "1219-01-01",
+      "enemy": "Khwarezmian Empire"
+    }
+  },
+
+  {
+    "id": 9,
+    "name": "Michiel de Ruyter",
+    "description": "Dutch admiral, known as one of the greatest naval commanders in history, famed for his strategic brilliance and leadership during the Anglo-Dutch Wars.",
+    "age_at_death": 69,
+    "active_status": false,
+    "birth_date": "1607-03-24",
+    "image_url": "",
+    "historical_period": "Dutch Golden Age",
+    "favorite_weapons": ["Naval fleet", "Cannon", "Boarding tactics"],
+    "significant_battle": {
+      "id": "BATTLE-9",
+      "name": "Battle of Scheveningen",
+      "location": "North Sea",
+      "date": "1653-07-31",
+      "enemy": "Kingdom of England"
+    }
+  },
+
+  {
+    "id": 10,
+    "name": "Saladin",
+    "description": "Kurdish-Muslim military leader and Sultan of Egypt and Syria, known for his role in the reconquest of Jerusalem from the Crusaders and his chivalrous conduct in warfare.",
+    "age_at_death": 55,
+    "active_status": false,
+    "birth_date": "1137-01-01",
+    "image_url": "",
+    "historical_period": "Medieval Middle East",
+    "favorite_weapons": ["Cavalry", "Trebutchet", "Diplomacy"],
+    "significant_battle": {
+      "id": "BATTLE-10",
+      "name": "Battle of Hattin",
+      "location": "Palestine",
+      "date": "1187-07-04",
+      "enemy": "Kingdom of Jerusalem"
+    }
+  }
+
+]
