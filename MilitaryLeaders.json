@@ -6,7 +6,7 @@
     "description": "Carthaginian general, best known for his tactics during the Second Punic War, particularly his crossing of the Alps with elephants.",
     "age_at_death": 45,
     "active_status": false,
-    "birth_date": "-247-01-01",
+    "birth_date": "216-08-02",
     "image_url": "https://raw.githubusercontent.com/Mohammed180599/MilitaryLeaders/main/images_MilitaryLeaders/1.jpg",
     "historical_period": "Classical antiquity",
     "favorite_weapons": ["War elephants", "Catapults", "Falcata"],
@@ -14,7 +14,7 @@
       "id": "BATTLE-1",
       "name": "Battle of Cannae",
       "location": "Italy",
-      "date": "-216-08-02",
+      "date": "247-01-01",
       "enemy": "Roman Empire"
     }
   },
@@ -25,7 +25,7 @@
     "description": "Legendary Chinese military strategist and philosopher, revered for his profound insights on warfare.",
     "age_at_death": 48,
     "active_status": false,
-    "birth_date": "-544-01-01",
+    "birth_date": "506-01-01",
     "image_url": "https://raw.githubusercontent.com/Mohammed180599/MilitaryLeaders/main/images_MilitaryLeaders/2.jpg",
     "historical_period": "Ancient China",
     "favorite_weapons": ["Strategic deception", "Guerilla warfare", "Spy intelligence"],
@@ -33,7 +33,7 @@
       "id": "BATTLE-2",
       "name": "Battle of Boju",
       "location": "China",
-      "date": "-506-01-01",
+      "date": "544-01-01",
       "enemy": "Chu state"
     }
   },
@@ -82,7 +82,7 @@
     "description": "Roman general and statesman, best known for his victory over Hannibal at the Battle of Zama, which effectively ended the Second Punic War.",
     "age_at_death": 53,
     "active_status": false,
-    "birth_date": "-236-01-01",
+    "birth_date": "202-10-19",
     "image_url": "https://raw.githubusercontent.com/Mohammed180599/MilitaryLeaders/main/images_MilitaryLeaders/5.jpg",
     "historical_period": "Ancient Rome",
     "favorite_weapons": ["Legionaries", "Cavalry", "Tactical flexibility"],
@@ -90,7 +90,7 @@
       "id": "BATTLE-5",
       "name": "Battle of Zama",
       "location": "Tunisia",
-      "date": "-202-10-19",
+      "date": "236-01-01",
       "enemy": "Carthage"
     }
   },
@@ -120,7 +120,7 @@
     "description": "Spartan military general and king, renowned for his leadership at the Battle of Thermopylae against the Persian Empire.",
     "age_at_death": 60,
     "active_status": false,
-    "birth_date": "-540-01-01",
+    "birth_date": "480-06-06",
     "image_url": "https://raw.githubusercontent.com/Mohammed180599/MilitaryLeaders/main/images_MilitaryLeaders/7.jpg",
     "historical_period": "Ancient Greece",
     "favorite_weapons": ["Spear", "Shield", "Phalanx formation"],
@@ -128,7 +128,7 @@
       "id": "BATTLE-7",
       "name": "Battle of Thermopylae",
       "location": "Greece",
-      "date": "-480-06-06",
+      "date": "540-01-01",
       "enemy": "Persian Empire"
     }
   },
