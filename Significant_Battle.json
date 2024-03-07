@@ -1,0 +1,72 @@
+[
+    {
+        "id": "BATTLE-1",
+        "name": "Battle of Cannae",
+        "location": "Italy",
+        "date": "247-01-01",
+        "enemy": "Roman Empire"
+    },
+    {
+        "id": "BATTLE-2",
+        "name": "Battle of Boju",
+        "location": "China",
+        "date": "544-01-01",
+        "enemy": "Chu state"
+    },
+    {
+        "id": "BATTLE-3",
+        "name": "Battle of Ankara",
+        "location": "Turkey",
+        "date": "1402-07-20",
+        "enemy": "Ottoman Empire"
+    },
+    {
+        "id": "BATTLE-4",
+        "name": "Siege of Vienna",
+        "location": "Austria",
+        "date": "1529-09-27",
+        "enemy": "Holy Roman Empire"
+    },
+    {
+        "id": "BATTLE-5",
+        "name": "Battle of Zama",
+        "location": "Tunisia",
+        "date": "236-01-01",
+        "enemy": "Carthage"
+    },
+    {
+        "id": "BATTLE-6",
+        "name": "Battle of Yarmouk",
+        "location": "Syria",
+        "date": "636-08-15",
+        "enemy": "Byzantine Empire"
+    },
+    {
+        "id": "BATTLE-7",
+        "name": "Battle of Thermopylae",
+        "location": "Greece",
+        "date": "540-01-01",
+        "enemy": "Persian Empire"
+    },
+    {
+        "id": "BATTLE-8",
+        "name": "Battle of Khwarezmia",
+        "location": "Central Asia",
+        "date": "1219-01-01",
+        "enemy": "Khwarezmian Empire"
+    },
+    {
+        "id": "BATTLE-9",
+        "name": "Battle of Scheveningen",
+        "location": "North Sea",
+        "date": "1653-07-31",
+        "enemy": "Kingdom of England"
+    },
+    {
+        "id": "BATTLE-10",
+        "name": "Battle of Hattin",
+        "location": "Palestine",
+        "date": "1187-07-04",
+        "enemy": "Kingdom of Jerusalem"
+    }
+]
