@@ -24,7 +24,7 @@
     "name": "Sun Tzu",
     "description": "Legendary Chinese military strategist and philosopher, revered for his profound insights on warfare.",
     "age_at_death": 48,
-    "active_status": false,
+    "active_status": true,
     "birth_date": "506-01-01",
     "image_url": "https://raw.githubusercontent.com/Mohammed180599/MilitaryLeaders/main/images_MilitaryLeaders/2.jpg",
     "historical_period": "Ancient China",
